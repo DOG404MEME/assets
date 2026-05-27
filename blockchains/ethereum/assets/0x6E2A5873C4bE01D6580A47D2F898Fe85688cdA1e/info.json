@@ -1,11 +1,26 @@
 {
   "name": "DOG404",
   "website": "https://dog404.io",
-  "description": "Not Found But Never Forgotten.",
+  "description": "DOG404 is a community-driven ERC-20 meme token inspired by the famous Error 404 concept. Not Found But Never Forgotten.",
   "explorer": "https://etherscan.io/token/0x6E2A5873C4bE01D6580A47D2F898Fe85688cdA1e",
   "type": "ERC20",
   "symbol": "DOG404",
   "decimals": 18,
   "status": "active",
-  "id": "0x6E2A5873C4bE01D6580A47D2F898Fe85688cdA1e"
+  "id": "0x6E2A5873C4bE01D6580A47D2F898Fe85688cdA1e",
+  "links": [
+    {
+      "name": "website",
+      "url": "https://dog404.io"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/dog404meme"
+    }
+  ],
+  "tags": [
+    "memes",
+    "erc20",
+    "community"
+  ]
 }
